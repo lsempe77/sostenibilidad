@@ -1,0 +1,199 @@
+---
+title: "SIEP - UNICEF"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+  lib_dir: libs
+nature:
+  highlightStyle: github
+highlightLines: true
+---
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#1c5253",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Fira Mono"),
+  header_h1_font_size = "2.0rem"
+)
+
+```
+
+
+# Sinerias entre UNICEF y SIEP
+
+- Aqui viene floro 1
+
+--
+
+- Aqui viene floro 2
+
+--
+
+- Aqui viene floro 3
+
+---
+# Fortalecimiento de la investigación entorno a poblaciones vulnerables
+
+**Problema**
+
+- No existe una *cultura* en la investigación de atención a aspectos éticos, especialmente en relación a poblaciones vulnerables
+  
+- Problemas éticos en la práctica investigativa (plagio)
+  
+- Hoy en día, hay un claro movimiento hacia la necesidad de establecer protocolos claros de investigación por parte de instituciones, agencias, fondos de cooperación, etc.
+  
+- Al lidiar con poblaciones vulnerables, el investigador se enfrenta a casos que han de recibir atención (violencia familiar, bulying, discriminación, acoso, etc.)
+
+---
+# Fortalecimiento de la investigación entorno a poblaciones vulnerables 
+
+**Ruta**
+
+- Creación de un ***comité interinstitucional de ética en la investigación***
+  
+  - Ser el referente para el país en materia de códigos de ética en investigación
+      
+  - Ofrecer servicios (pagados) para investigadores y universidades (lógica de sostenibilidad en el mediano plazo)
+      
+  - Puerta de entrada para fomento y formación de la investigación en el mundo universitario
+ 
+---
+# Fortalecimiento de la investigación entorno a poblaciones vulnerables 
+     
+**Actividades y Recursos**
+
+- Secretaría técnica
+
+  - Desarrollo de protocolos de investigación
+
+  - Desarrollo de procedimientos del comité
+  
+  - Formalización y certificación
+  
+- Constitución de equipos de revisores
+
+- Promoción del comité en mundo universitario
+
+***2 años desde incepción hasta consolidación***
+
+***Costo aproximado por año: 60,000***
+
+---
+# Producción de conocimiento en áreas relevantes para la política educativa
+
+**Problema**
+
+- Política educativa distante de la evidencia y del conocimiento
+  
+- Asuntos críticos no vienen siendo abordados con base a evidencias:
+  
+  - abandono escolar, migración, violencia, ESI, reforma de educación superior, educación y trabajo
+  
+---
+# Producción de conocimiento en áreas relevantes para la política educativa
+
+**Ruta**
+
+- Números temáticos en Revista de la SIEP
+
+  - Diciembre 2022: educación rural
+  
+  - Julio 2023: estudiantes en riesgo
+
+  - Diciembre 2023: migración
+
+  - Julio 2024: educación y protección social
+
+  - Diciembre 2024: educación superior
+
+---
+# Producción de conocimiento en áreas relevantes para la política educativa
+
+**Actividades y Recursos**
+
+- Gestión editorial de la Revista
+
+- Presentación de números temáticos con participación de MINEDU y otras actores
+
+***Costo aproximado por número temático: 12,000***
+  
+---
+# Formación de nuevos investigadores
+
+**Problema**
+
+- Muy baja calidad de investigaciones de pregrado y postrado en ciencias sociales y educación
+  
+- Productos de investigación no elaborados para su diseminación (tesis vs artículo en revista académica)
+  
+--
+
+**Ruta**
+
+- Taller de diseminación de investigaciones producidas (objetivo: transformar tesis en artículo)
+
+  - Enlazar convocatoria a temas de interés
+
+  - Enlazar a presentación y concurso de tesis en Seminario
+
+---
+# Formación de nuevos investigadores
+
+**Actividades y Recursos**
+
+- Organización de taller
+  
+  - Diseño metodológico
+  
+  - Organización e difusión
+  
+- Implementación virtual (para atender a diversidad del país)
+  
+
+***Dos ciclos: 2022/2023 y 2023/2024***
+
+***Costo aproximado por ciclo: 20,000***
+
+---
+# Movilización social: ciencia ciudadana
+
+**Posibilidad**
+
+- Tecnología permite desarrollo de herramientas y soluciones muy creativas
+
+- En el mundo se vienen desarrollando eventos donde equipos multidisciplinarios desarrollan soluciones a un problema
+
+- El problema (y las soluciones) reciben visibilidad en el ámbito público y técnico
+
+--
+
+**Ruta**
+
+- Lanzar la Hackathon por la educación
+
+  - Ejemplos: [Digieduhack](https://digieduhack.com/en/),[Science education](https://puebloscience.devpost.com/),[AI for Common Good](https://www.x5gon.org/event/hackathon/)
+  
+  - Enlazar a temas de interés: abandono escolar, aprendizajes, migración
+
+---
+# Movilización social: ciencia ciudadana
+
+**Actividades y Recursos**
+
+- Establecer aliados estratégicos: MINEDU, INEI, BCP, etc.
+  
+  - Organización
+  
+  - Difusión
+  
+- Implementación virtual
+  
+
+***Dos ciclos: 2023 y 2024***
+
+***Costo aproximado por ciclo: 35,000***
+
+

@@ -1,0 +1,166 @@
+---
+title: "Plan de sostenibilidad financiera"
+subtitle: "Ideas"
+author: "Lucas Sempé"
+institute: "SIEP"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+# Objetivo
+
+- Delinear posibles rutas de financiamiento de la SIEP de cara a una sostenibilidad financiera en el mediano y largo plazo.
+
+--
+
+- Fomentar el diálogo e ideas de financiamiento fuera de las convencionales.
+
+--
+
+- Trazar los siguientes pasos a seguir para implementar los distintos proyectos.
+
+---
+
+# Panorama actual
+
+- La SIEP tiene gastos fijos anuales por xxxxxx soles (equipo, revista, web, etc.). 
+
+- Adicionalmente tiene el Seminario con un costo neto de xxxxxx soles.
+
+--
+
+- Las actividades realizadas por la SIEP se basan en una combinación del voluntariado de sus miembros y financiamiento de otras instituciones (¡gracias FORGE, UNICEF!). Ello suma alrededor de 100,000 soles al año.
+
+--
+
+- Los ingresos por cuootas de asociados llegan a 5,000 soles anuales.
+
+---
+
+# Alternativas (I)
+
+1) Crecer en número de miembros
+
+- Ventajas
+
+** Aumentar de manera sostenida los ingresos.
+** Expande el impacto y el alcance de la SIEP.
+
+--
+
+- Desventajas
+
+** Siendo cuotas tan bajas, el impacto económico de un crecimiento lineal (4 ó 5 por año) es muy bajo. Se necesitaría 3,000 miembros para cubrir necesidades.
+
+--
+
+- Para dialogar
+
+** ¿Somos atractivos para tantos? ¿Qué podemos ofrecer? ¿Qué busca una masa crítica de educadores en el mundo de la investigación? ¿Se perdería la naturaleza de la institución?
+
+--
+
+- Opinión
+
+** Es importante aumentar el número de asociados haciendo una campaña proactiva con una meta, por ejemplo, de incorporar 20 a 30 miembros al año.
+** Pensar otro tipo de membresía.
+
+---
+# Alternativas (II)
+
+2) Financiamiento mediante proyectos
+
+- Ventajas
+
+** Tenemos experiencia y contactos en ello. 
+** SIEP tiene un nombre ganado debido al renombre de sus miembros.
+** Permite planificar actividades y garantizar su implementación.
+
+--
+
+- Desventajas
+
+** Dependencia de volatilidad de cooperantes
+** Brechas entre inicios y cierres de proyectos
+** Peligro de desfinanciamiento
+
+
+--
+
+- Para dialogar
+
+** ¿Conocemos otras instituciones a quienes buscar para diversificarnos?
+** ¿Podemos buscar la ruta estable de subsidio estatal (Ley de Presupuesto)?
+
+--
+
+- Opinión
+
+** Construir relación con UNICEF
+** Ruta de relaciones con MINEDU, UNESCO, ???, ???
+
+---
+# Alternativas (III)
+
+3) SIEP con rol en promoción de la investigación
+
+- Ventajas
+
+**
+--
+
+- Desventajas
+
+** 
+
+
+
+
+--
+
+- Para dialogar
+
+** 
+
+--
+
+- Opinión
+
+** 
+
+---
+
+# Proyecto 1: Repositorios
+
+https://www.eurocris.org/
+
+--- 
+
+# Proyecto 2:
+
+https://prolific.co/
+
+---
+# Proyecto 3: plataforma de metodología de investigación
+
+
+
+---
+# Modalidades de institución
+
+CIES (5 años rotativo en una institución) - pensar beneficios institucionales
+
+AERA (ingreso ilimitado, sin requisitos) - pensar problemas
+
+DEVSTUDIES - suscripción institucional y de personas
+
+---
+# Nuevo consejo directivo
+
+Director de asociados
+Director de sostenibilidad financiera
