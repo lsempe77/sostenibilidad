@@ -22,17 +22,105 @@ style_mono_accent(
 ```
 
 
-# Sinerias entre UNICEF y SIEP
+# Sinergias entre UNICEF y SIEP
 
-- Aqui viene floro 1
+- SIEP tiene como objetivo el fomento de la investigación rigurosa de cara a contribuir en las políticas públicas del país, tanto en términos de aprendizajes como en las condiciones necesarias para que todos accedan a una educación de calidad.
 
---
-
-- Aqui viene floro 2
+- No solo miramos la escuela, sino también los contextos, factores, políticas que hacen parte del entramado social (políticas sociales, protección social, infancia, etc.)
 
 --
 
-- Aqui viene floro 3
+- SIEP reúne a investigadores de las instituciones más importantes del país
+
+- Desde allí se puede influir positivamente en la política pública 
+
+--
+
+- Ambas instituciones empezando su ciclo de prioridades y acciones permite mirar en el mediano plazo
+
+
+---
+# Seminario
+
+**Posibilidades**
+
+- Seminario SIEP es un espacio consolidado de intercambio de ideas, análisis y discusión sobre políticas públicas en base a la evidencia
+
+- Alcance regional y nacional (itinerancia en la organización)
+
+- Asistencia nutrida formada por distintos actores: Ministerio de Educación, DRE-UGEL, docentes, estudiantes, investigadores
+
+- Espacio para mostrar avances y hallazgos de lo que se viene haciendo y estudiando en el país
+
+---
+# Seminario
+
+**Ruta** 
+
+- En el marco del VIII Seminario de la SIEP (mayo 2023)
+
+  - Concurso de tesis de Licenciatura y Maestría
+  
+  - Concurso de ensayos
+  
+- Temas:
+
+  - Acceso, retención e integración de NNA indígenas, migrantes, con discapacidad al sistema educativo
+  
+  - Educación sexual integral en la secundaria
+  
+  - Participación y convivencia escolar
+
+---
+# Seminario
+
+**Actividades y Recursos**
+
+- Establecer aliados estratégicos: MINEDU, INEI, BCP, etc.
+  
+  - Organización
+  
+  - Difusión
+  
+
+---
+# Producción de conocimiento en áreas relevantes para la política educativa
+
+**Problema**
+
+- Política educativa distante de la evidencia y del conocimiento
+  
+- Asuntos críticos no vienen siendo abordados con base a evidencias:
+  
+  - abandono escolar, migración, violencia, ESI, reforma de educación superior, educación y trabajo
+  
+---
+# Producción de conocimiento en áreas relevantes para la política educativa
+
+**Ruta**
+
+- Números temáticos en Revista de la SIEP
+
+  - Diciembre 2022: educación rural
+  
+  - Julio 2023: estudiantes en riesgo
+
+  - Diciembre 2023: migración
+
+  - Julio 2024: educación y protección social
+
+  - Diciembre 2024: educación superior
+
+---
+# Producción de conocimiento en áreas relevantes para la política educativa
+
+**Actividades y Recursos**
+
+- Gestión editorial de la Revista
+
+- Presentación de números temáticos con participación de MINEDU y otras actores
+
+***Costo aproximado por número temático: 12,000***
 
 ---
 # Fortalecimiento de la investigación entorno a poblaciones vulnerables
@@ -79,47 +167,6 @@ style_mono_accent(
 
 ***2 años desde incepción hasta consolidación***
 
-***Costo aproximado por año: 60,000***
-
----
-# Producción de conocimiento en áreas relevantes para la política educativa
-
-**Problema**
-
-- Política educativa distante de la evidencia y del conocimiento
-  
-- Asuntos críticos no vienen siendo abordados con base a evidencias:
-  
-  - abandono escolar, migración, violencia, ESI, reforma de educación superior, educación y trabajo
-  
----
-# Producción de conocimiento en áreas relevantes para la política educativa
-
-**Ruta**
-
-- Números temáticos en Revista de la SIEP
-
-  - Diciembre 2022: educación rural
-  
-  - Julio 2023: estudiantes en riesgo
-
-  - Diciembre 2023: migración
-
-  - Julio 2024: educación y protección social
-
-  - Diciembre 2024: educación superior
-
----
-# Producción de conocimiento en áreas relevantes para la política educativa
-
-**Actividades y Recursos**
-
-- Gestión editorial de la Revista
-
-- Presentación de números temáticos con participación de MINEDU y otras actores
-
-***Costo aproximado por número temático: 12,000***
-  
 ---
 # Formación de nuevos investigadores
 
@@ -155,7 +202,6 @@ style_mono_accent(
 
 ***Dos ciclos: 2022/2023 y 2023/2024***
 
-***Costo aproximado por ciclo: 20,000***
 
 ---
 # Movilización social: ciencia ciudadana
@@ -194,6 +240,32 @@ style_mono_accent(
 
 ***Dos ciclos: 2023 y 2024***
 
-***Costo aproximado por ciclo: 35,000***
+---
+
+# Talleres formativos con periodistas
+
+**Problema**
+
+- Los medios de comunicación tienden a presentar representaciones sociales negativas de la población migrante, indígena, o con discapacidad. En algunos casos asociando la imagen de la población migrante a actividades delincuenciales o de violencia, y en el caso de los grupos indígenas y con discapacidad con un tratamiento paternalista, infantilizada o centrada en  la pena y el sufrimiento. 
+
+- Estas representaciones inciden en los NNA con estas características, en su formación y en las relaciones sociales que establecen con otros.
+
+---
+# Talleres formativos con periodistas
+
+**Ruta**
+
+- Organización de Talleres formativos con periodistas de los departamentos (Lima, Loreto, Huancavelica, Ucayali), donde trabaja Unicef para mejorar el tratamiento informativo en base al conocimiento y evidencia, tomando en cuenta criterios de género, interculturalidad y equidad-, sobre derechos de los NNA con énfasis en el derecho a la educación
+de los grupos indígenas, migrantes, con discapacidad.
+
+---
+# Talleres formativos con periodistas
+
+**Actividades y Recursos**
+
+  - Diseño metodológico
+  
+  - Organización y difusión
+
 
 
